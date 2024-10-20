@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/hello_frontend"
-  ]
+  ],
+  "dependencies": {
+    "react-router-dom": "^6.27.0",
+    "react-typed": "^2.0.12"
+  }
 }
